@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sayrud.com/">
-    <img src="https://raw.githubusercontent.com/sayrud/.github/HEAD/assets/banner.png" alt="Sayrud logo with a collaborative spreadsheet illustration" width="100%">
+    <img src="https://raw.githubusercontent.com/sayrud/.github/HEAD/assets/banner.webp" alt="Sayrud logo with a collaborative spreadsheet illustration" width="100%">
   </a>
 </p>
 
