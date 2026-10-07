@@ -13,8 +13,6 @@
   <a href="https://github.com/sayrud/sayrud/issues">Issues</a>
 </p>
 
-# Sayrud
-
 Sayrud is an open-source, self-hosted collaborative spreadsheet database for organizing projects, tasks, and shared data. Bring your team together around one table, choose the view that fits your work, and deploy it on your own infrastructure.
 
 ## Make shared data work for your team
